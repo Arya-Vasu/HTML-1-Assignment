@@ -1,0 +1,205 @@
+.solutions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.one_two{
+    background: #f995ab;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+/*Answer-3 CSS Code starts here...*/
+
+.solution{
+    text-decoration: underline;
+    text-align: center;
+}
+  
+.three{
+    background: #F9F395;
+    border-radius: 10px;
+    margin: 5px;
+}
+  
+form{
+    text-align: center;
+}
+  
+div{
+    padding: 3px;
+}
+  
+input[type="text"] {
+    background-color: #B3B6B7;
+}
+  
+input[type="email"] {
+    background-color: #B3B6B7;
+}
+  
+textarea {
+    background-color: #B3B6B7;
+}
+  
+/*Answer-4 CSS Code starts here...*/
+  
+.four{
+    background: #C4F995;
+    border-radius: 10px;
+    margin: 5px;
+}
+  
+ol{
+    list-style: lower-alpha;
+}
+  
+/*Answer-5 CSS Code starts here...*/
+  
+.five{
+    background: #FFC300;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+}
+    
+a{
+    color: teal;
+    text-decoration: none;
+}
+  
+a:hover{
+    color: crimson;
+}
+  
+/*Answer-6 CSS Code starts here...*/
+  
+.six{
+    background: #71d3e0;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.radio{
+    display: flex;
+    align-items: center;
+}
+  
+/*Answer-7 CSS Code starts here...*/
+  
+.seven{
+    background: #F9F395;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.inner-border{
+    border: 5px solid black;
+    border-radius: 3px;
+    text-align: center;
+}
+
+h3{
+    background: red;
+    color: white;
+    font-size: 30px;
+    margin: 0px;
+    padding: 0;
+}
+
+.names, .state-detail, .plan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.font2{
+    border-bottom: 1px solid black;
+    font-family: 'Yellowtail', cursive;
+    font-weight: bold;
+    margin: 0;
+    font-size: 25px;
+    padding: 0;
+}
+
+.names .font2{
+    width: 250px;
+}
+
+.state-detail .font2{
+    width: 175px;
+}
+
+.font1{
+    text-align: left;
+    margin: 0;
+    font-size: 20px;
+    padding: 0;
+}
+
+.plan, .information{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.info-heading{
+    margin: 0;
+    padding: 0;
+}
+
+  
+/*Answer-8 CSS Code starts here...*/
+  
+.eight{
+    background: #f995ab;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td{
+    border: 2px solid black;
+    text-align: center;
+}
+  
+/* Answer-9 CSS Code starts here... */
+
+.nine{
+    background: #C4F995;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+/* Answer-10 CSS Code starts here... */
+
+.ten{
+    background: #FFC300;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+/* Answer-11 CSS Code starts here... */
+
+.eleven{
+    background: #71d3e0;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.contact, .gender, .skills, .location{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
